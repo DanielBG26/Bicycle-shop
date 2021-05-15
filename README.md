@@ -66,3 +66,7 @@ Comanda
 Graf
 -Graf::Graf(vector llistaVertexs, vector llistaArestes): Guardamos los vértices y creamos la 
 matriz de adyacencia a partir de la lista de aristas.
+
+![2](https://user-images.githubusercontent.com/83342143/118343242-0ad54380-b528-11eb-9a40-5c3cd5926844.PNG)
+
+
